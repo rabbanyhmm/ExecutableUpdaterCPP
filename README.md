@@ -3,7 +3,7 @@
 
 # ExecutableUpdaterCPP
 
-![ViewCount](https://komarev.com/ghpvc/?username=myexistences&label=Views&color=blue&style=flat)
+![ViewCount](https://komarev.com/ghpvc/?username=rabbanyhmm&label=Views&color=blue&style=flat)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 > **A professional, header-only C++ library for automatic executable updates on Windows.**
@@ -152,9 +152,9 @@ You are free to use, modify, and distribute with attribution.
 
 ## 👤 Author
 
-**myexistences**
-GitHub: [https://github.com/myexistences](https://github.com/myexistences)
-Repo: [ExecutableUpdaterCPP](https://github.com/myexistences/ExecutableUpdaterCPP)
+**rabbanyhmm**
+GitHub: [https://github.com/rabbanyhmm](https://github.com/rabbanyhmm)
+Repo: [ExecutableUpdaterCPP](https://github.com/rabbanyhmm/ExecutableUpdaterCPP)
 
 
 
@@ -169,4 +169,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📊 Repository Statistics
 
-![ViewCount](https://komarev.com/ghpvc/?username=myexistences\&label=Total+Views\&color=blue)
+![ViewCount](https://komarev.com/ghpvc/?username=rabbanyhmm\&label=Total+Views\&color=blue)

@@ -4,11 +4,11 @@
  * @version 2.0.0
  * @date 2025
  * 
- * @author myexistences
- * @copyright Copyright (c) 2025 myexistences. All rights reserved.
+ * @author rabbanyhmm
+ * @copyright Copyright (c) 2025 rabbanyhmm. All rights reserved.
  * @license MIT License
  * 
- * GitHub: https://github.com/myexistences
+ * GitHub: https://github.com/rabbanyhmm
  * 
  * @description
  * A lightweight, header-only auto-updater library for Windows applications.
